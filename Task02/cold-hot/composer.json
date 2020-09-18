@@ -1,0 +1,21 @@
+{
+    "name": "paramonov/cold-hot",
+    "authors": [
+        {
+            "name": "Oleg Paramonov",
+            "email": "oleg10_9@mail.ru"
+        }
+    ],
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.11"
+    },
+	"bin": [
+		"bin/cold-hot.php"
+	],
+	"autoload": {
+		"files": [
+			"src/Controller.php",
+			"src/View.php"
+		]
+	}
+}
