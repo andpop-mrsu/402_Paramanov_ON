@@ -28,18 +28,18 @@
 2. Установить composer, если он не установлен;
 3. Перейти в корневой каталог;
 4. Выполнить в консоли команду `composer update`;
-5. Перейти в каталог bin из корнегого каталога и запустить файл guess-number.bat.
+5. Перейти в каталог bin из корнегого каталога и запустить файл cold-hot.bat.
 
 Из Packagist:
 
 1. Установить composer, если он не установлен;
 2. Перейти в каталог, в который вы будете клонировать проект;
-3. Выполнить команду `composer require nikit/cold-hot`;
+3. Выполнить команду `composer require paramonov/cold-hot`;
 4. Перейти в каталог vendor/bin;
-5. Запустить файл guess-number.bat.
+5. Запустить файл cold-hot.bat.
 
 * * *
 
 ## Ссылки
 
-Packagist: <https://packagist.org/packages/nikit/cold-hot>
+Packagist: <https://packagist.org/packages/paramonov/cold-hot>

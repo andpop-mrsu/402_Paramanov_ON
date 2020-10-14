@@ -1,9 +1,9 @@
 {
-    "name": "nikit/cold-hot",
+    "name": "paramonov/cold-hot",
     "authors": [
         {
-            "name": "NikitaMakshev",
-            "email": "nikita.makshev@mail.ru"
+            "name": "OlegParamonov",
+            "email": "oleg10_9@mail.ru"
         }
     ],
     "require": {
