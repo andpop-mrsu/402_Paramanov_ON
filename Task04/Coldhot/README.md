@@ -42,4 +42,4 @@
 
 ## Ссылки
 
-Packagist: <https://packagist.org/packages/nikit/cold-hot>
+Packagist: <https://packagist.org/packages/paramonov/cold-hot>
