@@ -15,5 +15,5 @@
 
 ## Инструкция по установке и запуску игры
 
-1. Перейти по ссылке https://olegparamonov.github.io/coldhotgamejs/
+1. Перейти по ссылке  https://olegparamonov.github.io/cold-hotjs/
 2. Приступить к игре
