@@ -1,0 +1,22 @@
+{
+    "name": "paramonov/task01",
+    "authors": [
+        {
+            "name": "OlegParamonov",
+            "email": "oleg10_9@mail.ru"
+        }
+    ],
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Test.php"
+        ]
+    },
+    "bin": [
+        "bin/run-test"
+    ]
+}
